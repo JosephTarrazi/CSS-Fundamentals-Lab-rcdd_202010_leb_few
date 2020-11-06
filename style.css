@@ -10,9 +10,8 @@ h1{
 figure{
   align-items: center;
 }
-nav{
-  a{
+nav a{
+  
   padding-right: 10px;
   padding-left: 10px;
-}
 }
