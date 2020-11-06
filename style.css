@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+
+figure{
+  align-items: center;
+}
+nav{
+  a{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+}
